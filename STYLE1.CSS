@@ -1,0 +1,24 @@
+.jumbotron{
+    text-align: center;
+    width: 100%;
+    height: 200px;
+    background-color: darkgrey;
+    font: small-caps bold 24px/1 sans-serif;
+}
+.car{
+    float: left;
+   
+}
+.input1{
+    margin: 20px;
+   width: 20px;
+}
+.in{
+    margin: 10px;}
+    .sing{
+        margin: 20px;
+        text-align: center;
+        
+        
+    }
+    
